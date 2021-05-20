@@ -65,7 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\layout\" />
-    <Folder Include="Resources\values\" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\icon.png" />
